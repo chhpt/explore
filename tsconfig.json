@@ -13,6 +13,5 @@
     "incremental": true,
     "paths": {}
   },
-  "include": ["packages/**/*"],
   "exclude": ["node_modules"]
 }
